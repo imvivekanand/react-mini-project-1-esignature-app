@@ -2,8 +2,8 @@ import React from 'react'
 
 function Title() {
   return (
-    <div>
-      
+    <div className='title text-center'>
+      <span className='font-bold text-xl'>Title</span>
     </div>
   )
 }
